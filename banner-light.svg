@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Rang THAI Ngoc — Software Engineer">
+  <title>Rang THAI Ngoc — Software Engineer</title>
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0036be"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#f8fafc"/>
+
+    <!-- The expanding ring from the site's theme transition, slowed to a idle loop. -->
+    <g fill="none" stroke="url(#sweep)" opacity="0.22">
+      <circle cx="1010" cy="150" r="60" stroke-width="18">
+        <animate attributeName="r" values="40;300" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;0" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1010" cy="150" r="120" stroke-width="1.5"/>
+      <circle cx="1010" cy="150" r="190" stroke-width="1.5"/>
+    </g>
+
+    <text x="72" y="132" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="26" fill="#0036be" font-weight="600">Hi, I'm</text>
+    <text x="72" y="196" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="62" fill="#0f172a" font-weight="800" letter-spacing="-1">Rang THAI Ngoc</text>
+    <text x="72" y="240" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" fill="#475569">Software Engineer</text>
+
+    <rect x="0" y="292" width="1200" height="8" fill="url(#sweep)"/>
+  </g>
+</svg>
