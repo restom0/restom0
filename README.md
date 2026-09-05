@@ -40,11 +40,11 @@ and the Docker and CI plumbing that ships them.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=restom0&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=restom0&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000">
   <img alt="GitHub stats" height="150" src="https://github-readme-stats.vercel.app/api?username=restom0&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=restom0&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=restom0&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&bg_color=00000000">
   <img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restom0&layout=compact&hide_border=true&hide_title=true&bg_color=00000000">
 </picture>
 
