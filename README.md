@@ -56,7 +56,4 @@ and the Docker and CI plumbing that ships them.
 
 [![Email](https://img.shields.io/badge/-thaingocrang2014@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:thaingocrang2014@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/th%C3%A1i-ng%E1%BB%8Dc-r%E1%BA%A1ng-283581227/)
-
-<sub>The portfolio hides a midnight easter egg. Try <kbd>↑</kbd> <kbd>→</kbd> <kbd>↓</kbd> <kbd>←</kbd></sub>
-
 </div>
